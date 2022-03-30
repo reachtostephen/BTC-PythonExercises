@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <form action="/edit" method="post"
+          enctype="multipart/form-data">
+        {% if message %}
+    <p>{{message}}</p>
+    {%endif%}
+        <p>Please enter the Name: <input type="text" name = 'name'></p>
+        <p>Please enter your old password: <input type="text" name = 'oldpw'></p>
+        <p>Please enter your new password: <input type="text" name = 'newpw'></p>
+        <p><input type="submit" value="Login"></p>
+    </form>
+</head>
+<body>
+
+</body>
+</html>
