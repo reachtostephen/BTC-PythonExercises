@@ -1,5 +1,6 @@
-Name,Age,Experience
-ABC,21,2
-DEF,24,4
-GHI,27,6
-JKL,22,3
+Name,Age,Experience,Salary
+ABC,21,2,30000
+DEF,24,4,40000
+GHI,27,6,50000
+JKL,22,1,25000
+MNO,30,8,60000
