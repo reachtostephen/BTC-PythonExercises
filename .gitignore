@@ -1,0 +1,7 @@
+.env
+venv/
+.ipynb_checkpoints/
+env/
+org/
+
+
